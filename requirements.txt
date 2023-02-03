@@ -1,0 +1,5 @@
+streamlit
+streamlit-autorefresh
+substreams
+pandas
+python-dotenv
